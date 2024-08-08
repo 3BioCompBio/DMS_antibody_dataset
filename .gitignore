@@ -161,5 +161,6 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-# ColabFold
-ColabFold/repaired_PDBs*
+# Remodel
+Remodel/repaired_PDBs*
+Remodel/data/
